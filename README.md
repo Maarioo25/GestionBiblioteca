@@ -75,6 +75,7 @@ Biblioteca/
 ├── LICENSE                 # Licencia del programa
 ├── README.md               # Este archivo
 ├── requirements.txt        # Dependencias
+├── setup.py                # Distribución
 ├── biblioteca.db           # Base de datos
 ├── database.py             # Configuración de la base de datos
 └── main.py                 # Inicio del programa
